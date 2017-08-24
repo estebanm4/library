@@ -1,8 +1,8 @@
 package taller;
-
+import java.util.Scanner;
 /**
- *
- * @author Estudiante Mateo Pacheco (cpachecof@unal.edu.co) Esteban Muñoz (jemunozva@unal.edu.co)
+  * 
+  * @author Estudiante Mateo Pacheco (cpachecof@unal.edu.co) Esteban Muñoz (jemunozva@unal.edu.co)
  */
 public class Taller {
 
