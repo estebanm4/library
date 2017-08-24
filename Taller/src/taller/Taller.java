@@ -2,13 +2,17 @@ package taller;
 
 /**
  *
- * @author Estudiante
+ * @author Estudiante Mateo Pacheco (cpachecof@unal.edu.co) Esteban Muñoz (jemunozva@unal.edu.co)
  */
 public class Taller {
 
     public static void main(String[] args) {
-        LibraryCard card1
-        card1 = new LibraryCard;
+       
+        Student estudiante = new Student("Jon Java", "jj@javauniv.edu");
+        LibraryCard card1 = new LibraryCard(estudiante, 3);
+        LibraryCard card2 = new LibraryCard(estudiante, 0);
+        
+        System.out.println(card1);
     }
     
 }
