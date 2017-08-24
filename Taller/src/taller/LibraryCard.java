@@ -28,17 +28,5 @@ public class LibraryCard {
     @Override
     public String toString() {
         return "LibraryCard{" + "owner=" + owner + ", borrowCnt=" + borrowCnt + '}';
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    } 
 }
