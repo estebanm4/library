@@ -12,6 +12,7 @@ public class Taller {
         LibraryCard card2 = new LibraryCard(estudiante, 0);
         
         System.out.println(card1);
+        System.out.println(card2);
     }
     
 }
